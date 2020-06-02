@@ -1,6 +1,6 @@
 {
-    "name": "ffd",
-    "short_name": "ffd",
+    "name": "Flutter For Dev",
+    "short_name": "FFD",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
