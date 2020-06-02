@@ -8,13 +8,11 @@ const RESOURCES = {
 "assets/LICENSE": "7f1df1ee47854388e684afc0845ea820",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "0acc4fb27dca6764227bcc59d514d678",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/icon.png": "0acc4fb27dca6764227bcc59d514d678",
 "index.html": "1b7d7b79595d01843728f816d1eeff12",
 "/": "1b7d7b79595d01843728f816d1eeff12",
 "main.dart.js": "66ec780153fb12fe06cc95c318066887",
-"manifest.json": "d54fee2643ba26fccc012cc15fe6e38e"
+"manifest.json": "ef0947a6a4d1005448833ecd1880c3e8"
 };
 
 self.addEventListener('activate', function (event) {
