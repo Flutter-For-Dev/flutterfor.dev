@@ -64188,7 +64188,7 @@ s=A.a5(a,r,p).w
 A.a5(a,r,p).toString
 A.a5(a,r,p).w.a.i(0)
 p=A.a5(a,r,p).w
-return A.ia(A.a([q,A.i8(A.cU(r,new A.rA(A.anF(r,r,new A.q3("assets/images/image_main.png",r,r)),s.a.a/1.2,p.a.b/1.2,r),r,r,r,r,r,r,r),r,r)],t.E),B.aH,B.aA,B.aB)}}
+return A.ia(A.a([q,A.i8(A.cU(r,new A.rA(A.anF(r,r,new A.q3("assets/images/image_main.png",r,r)),s.a.a/1.25,p.a.b/1.25,r),r,r,r,r,r,r,r),r,r)],t.E),B.aH,B.aA,B.aB)}}
 A.rw.prototype={
 am(){return new A.wc(A.Yy(),B.l)}}
 A.wc.prototype={
