@@ -3,19 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-<<<<<<< HEAD
-const RESOURCES = {"flutter_bootstrap.js": "d577fbb2ea62ae790a208921c95624cb",
+const RESOURCES = {"flutter_bootstrap.js": "c6a00cfa7e5ee01c9edddc8f14a9d4ba",
 "version.json": "3bfcc9611180dd0fb71b8a33307052cc",
-"index.html": "706158d83457503dcf36608bafcb3fb7",
-"/": "706158d83457503dcf36608bafcb3fb7",
-"main.dart.js": "c432cd6e54761721b6d883fa0221d5d5",
-=======
-const RESOURCES = {"flutter_bootstrap.js": "726864c8e76917fb99953243f4830e28",
-"version.json": "3bfcc9611180dd0fb71b8a33307052cc",
-"index.html": "c7e2802924f8305bc84ae9e9f1b0796c",
-"/": "c7e2802924f8305bc84ae9e9f1b0796c",
+"index.html": "5ad7036d369f9bde720fd66fba32afe0",
+"/": "5ad7036d369f9bde720fd66fba32afe0",
 "main.dart.js": "3531c6ead4bc9ef7c7da44c80b92f868",
->>>>>>> parent of 9c4ed61 (Revert "update")
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/icon.png": "0acc4fb27dca6764227bcc59d514d678",
